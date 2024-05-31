@@ -6,7 +6,7 @@ TOKEN = '6884757883:AAEmYYE0bPXpYU6qEYU-iCHJRxwSnBUHggU'
 
 # 群聊 ID
 BACKUP_CHAT_ID = -1002117896734  # 备份群 ID
-MIRROR_CHAT_ID = -4289132816     # 镜像群 ID
+MIRROR_CHAT_ID = -1002177779011    # 镜像群 ID
 
 # 定义一个处理所有消息的处理函数
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
